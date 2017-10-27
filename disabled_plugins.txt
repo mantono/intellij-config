@@ -1,0 +1,5 @@
+AntSupport
+CVS
+Subversion
+com.intellij.uiDesigner
+hg4idea
