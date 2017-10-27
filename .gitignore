@@ -1,3 +1,6 @@
 port
 port.lock
 tasks
+options/statistics*
+options/feature.usage.statistics.xml
+options/recentProjects.xml
