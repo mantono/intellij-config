@@ -4,6 +4,11 @@
       <component name="CompilerConfiguration">
         <bytecodeTargetLevel target="1.8" />
       </component>
+      <component name="GradleLocalSettings">
+        <option name="externalProjectsViewState">
+          <projects_view />
+        </option>
+      </component>
       <component name="Kotlin2JvmCompilerArguments">
         <option name="jvmTarget" value="1.8" />
       </component>
