@@ -5,4 +5,5 @@ options/statistics*
 options/feature.usage.statistics.xml
 options/recentProjects.xml
 options/dimensions.xml
+options/options.xml
 plugins
