@@ -1,0 +1,18 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="CompilerConfiguration">
+        <bytecodeTargetLevel target="1.8" />
+      </component>
+      <component name="Kotlin2JvmCompilerArguments">
+        <option name="jvmTarget" value="1.8" />
+      </component>
+      <component name="KotlinCommonCompilerArguments">
+        <option name="coroutinesState" value="enable" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

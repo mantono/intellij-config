@@ -6,12 +6,14 @@
     <property name="file.chooser.recent.files" value="$USER_HOME$/code/zensum/axa-agent" />
     <property name="lastTip" value="1" />
     <property name="ProjectStructure.SecondLevelElements" value="0.49256507" />
-    <property name="file.gist.reindex.count" value="16800" />
+    <property name="file.gist.reindex.count" value="17408" />
     <property name="KEYMAP" value="browse&#10;execute" />
     <property name="kotlin.lastUpdateCheck" value="1509100679058" />
     <property name="param.hints.settings.last.edited.language" value="kotlin" />
     <property name="selected.color.option.type" value="KOTLIN_ANNOTATION" />
     <property name="ColorChooser.RecentColors" value="57-57-57-255" />
-    <property name="settings.code.style.selected.tab.kotlin" value="Imports" />
+    <property name="settings.code.style.selected.tab.kotlin" value="Spaces" />
+    <property name="PLUGIN_FILTER" value="markdown" />
+    <property name="FileTemplates.SelectedTemplate" value="Kotlin Interface" />
   </component>
 </application>
