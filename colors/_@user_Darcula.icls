@@ -3,10 +3,30 @@
     <property name="created">2017-10-27T12:12:48</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-10-27T13:58:04</property>
+    <property name="modified">2018-03-06T11:35:27</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
     <option name="CARET_ROW_COLOR" value="393939" />
   </colors>
+  <attributes>
+    <option name="LINE_FULL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="26681e" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_NONE_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="883322" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="LINE_PARTIAL_COVERAGE">
+      <value>
+        <option name="FOREGROUND" value="8d6a2d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
 </scheme>

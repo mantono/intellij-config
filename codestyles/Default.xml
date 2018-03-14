@@ -11,6 +11,9 @@
   <Properties>
     <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
   </Properties>
+  <codeStyleSettings language="JAVA">
+    <option name="WRAP_ON_TYPING" value="0" />
+  </codeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />

@@ -5,6 +5,10 @@
   <action id="ActivateGradleToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl g" />
   </action>
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="alt 1" />
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="CompileDirty" />
   <action id="Debug">
@@ -30,6 +34,13 @@
   <action id="EditorPageUpWithSelection" />
   <action id="EditorScrollDown" />
   <action id="EditorScrollUp" />
+  <action id="EditorToggleUseSoftWraps">
+    <keyboard-shortcut first-keystroke="shift ctrl quote" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+    <keyboard-shortcut first-keystroke="#10000a7" />
+  </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="ctrl o" />
@@ -40,13 +51,18 @@
   <action id="IntroduceField" />
   <action id="IntroduceProperty" />
   <action id="MakeGradleProject" />
+  <action id="MaximizeToolWindow" />
   <action id="MethodHierarchy.OverrideMethodAction" />
+  <action id="MethodOverloadSwitchUp" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt page_down" />
   </action>
   <action id="OverrideMethods" />
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="alt page_up" />
+  </action>
+  <action id="QuickChangeScheme">
+    <keyboard-shortcut first-keystroke="ctrl plus" />
   </action>
   <action id="QuickDocCopy">
     <keyboard-shortcut first-keystroke="ctrl c" />
@@ -56,6 +72,13 @@
   </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl pause" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl #10000a7" />
+  </action>
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="shift alt tab" />
   </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
